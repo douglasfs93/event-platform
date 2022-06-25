@@ -126,7 +126,7 @@ export function Video(props: VideoProps){
           </a>
         </div>
       </div> 
-      <div className="mt-[180px]">
+      <div className="mt-[200px]">
         <Footer/>
       </div>
     </div>
