@@ -1,5 +1,6 @@
 import { useState, FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
+import { Footer } from "../components/Footer";
 import { Logo } from "../components/Logo";
 import { useCreateSubscriberMutation } from "../graphql/generated";
 
@@ -88,9 +89,10 @@ export function Subscribe() {
       </div>
       <img
         src="/src/assets/code-mockup.png"
-        className="sm:px-2 lg:px-0"
+        className="sm:px-2 md:px-0"
         alt=""
       />
+      <Footer />
     </div>
   );
 }
