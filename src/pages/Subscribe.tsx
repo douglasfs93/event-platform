@@ -38,12 +38,12 @@ export function Subscribe() {
             <Logo />
           </div>
 
-          <h1 className="sm:text-center px-20 lg:text-start lg:px-0 mt-8 text-[2.5rem] leading-tight">
+          <h1 className="sm:text-center px-5 lg:text-start lg:px-0 mt-8 text-[2.5rem] leading-tight">
             Construa uma{" "}
             <strong className="text-blue-500">aplicação completa</strong>, do
             zero, com <strong className="text-blue-500">React</strong>
           </h1>
-          <p className="sm:text-center px-20 mb-10 lg:text-start lg:px-0 mt-4 text-gray-200 leading-relaxed">
+          <p className="sm:text-center px-10 mb-10 lg:text-start lg:px-0 mt-4 text-gray-200 leading-relaxed">
             Em apenas uma semana você vai dominar na prática uma das tecnologias
             mais utilizadas e com alta demanda para acessar as melhores
             oportunidades do mercado.
@@ -88,7 +88,7 @@ export function Subscribe() {
         </div>
       </div>
       <img
-        src="/src/assets/code-mockup.png"
+        src="https://raw.githubusercontent.com/douglasfs93/event-platform.app/master/src/assets/code-mockup.png"
         className="sm:px-2 md:px-0"
         alt=""
       />
