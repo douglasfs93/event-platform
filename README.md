@@ -10,4 +10,4 @@
 </div>
 
 ## Tecnologias!
-Graphql[](https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/graphql.png)
+Graphql[30](https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/graphql.png)
