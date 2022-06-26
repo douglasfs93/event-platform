@@ -29,12 +29,17 @@ Clone o repositório:
 $ git clone git@github.com:douglasfs93/event-platform.git
 ```
 
-Instale as dependencias usando "npm" ou "yarn"
+Entre na pasta do projeto:
+```
+$ cd event-platform
+```
+
+Instale as dependencias usando "npm" ou "yarn":
 ```bash
 $ npm install
 ```
 
-E é só rodar a aplicação
+E é só rodar a aplicação:
 ```
 $ npm run dev
 ```
