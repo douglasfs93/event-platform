@@ -18,3 +18,26 @@
  - TypeScript 
  - Apollo 
  - VimeJS 
+
+ ### APP
+App desenvolvido pela <a src="https://www.rocketseat.com.br/">RocketSeat</a>, de uma plataforma de aulas online.
+
+### Para Executar
+
+Clone o repositório:
+```bash
+$ git clone git@github.com:douglasfs93/event-platform.git
+```
+
+Instale as dependencias usando "npm" ou "yarn"
+```bash
+$ npm install
+```
+
+E é só rodar a aplicação
+```
+$ npm run dev
+```
+
+E é só acessar o endereço <a src="http://localhost:3000/">http://localhost:3000/</a>
+
