@@ -39,5 +39,5 @@ E é só rodar a aplicação
 $ npm run dev
 ```
 
-E é só acessar o endereço <a src="http://localhost:3000/">http://localhost:3000/</a>
+Agora é só acessar o endereço <a src="http://localhost:3000/">http://localhost:3000/</a>
 
