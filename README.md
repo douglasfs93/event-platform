@@ -3,8 +3,7 @@
 <div align="center">
 
 ### Desktop Preview
-<img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenDesktop.jpg">
-<img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenDesktop.jpg">
+<img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenDesktop.jpg"> | <img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenDesktop.jpg">
 
 ### Mobile Preview
 <img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenMobile.jpg">
