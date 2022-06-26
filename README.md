@@ -3,8 +3,11 @@
 <div align="center">
 
 ### Desktop Preview
-<img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenDesktop.jpg"> | <img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenDesktop.jpg">
+<img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenDesktop.jpg"> 
 
 ### Mobile Preview
 <img src="https://raw.githubusercontent.com/douglasfs93/event-platform/master/src/assets/screenMobile.jpg">
 </div>
+
+## Tecnologias!
+Graphql[](https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/graphql.png)
